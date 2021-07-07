@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-이지호의 홈페이지! 
+[이지호](my-intro.md)의 홈페이지! 
 
 You can use the [editor on GitHub](https://github.com/Leejiho-940915/Leejiho-940915.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
